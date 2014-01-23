@@ -3,8 +3,7 @@ abc
 
 Beginner steps in C programming
 
+The content for this repos is currently wiki only:
 
-[Lesson 1](./wiki/Lesson-1)
-
-[Lesson 2](./wiki/Lesson-2)
+https://github.com/nitrologic/abc/wiki
 
