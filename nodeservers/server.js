@@ -31,7 +31,7 @@ app.use(function(req, res, next) {
   res.status(404).send('404: Sorry '+req.url+' Not Found '+req.connection.remoteAddress);
 });
 
-http.createServer(app).listen(80)
-console.log("upload server listening on port 80\n")
+http.createServer(app).listen(8080)
+console.log("upload server listening on port 8080\n")
 log.write("server::start\n");
 
